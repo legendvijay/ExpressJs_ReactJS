@@ -1,0 +1,30 @@
+{
+  "name": "express-app1",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "babel pages -d lib",
+    "start": "node app"
+  },
+  "type": "module",
+  "description": "ExpressApp1",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "@babel/cli": "^7.10.1",
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2",
+    "@babel/preset-react": "^7.10.1",
+    "body-parser": "^1.15.0",
+    "cookie-parser": "^1.4.0",
+    "debug": "^2.2.0",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "object-assign": "^4.1.1",
+    "pug": "^2.0.0-beta6",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "serve-favicon": "^2.3.0"
+  }
+}
