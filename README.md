@@ -1,4 +1,5 @@
-Sample Snippet for
+This is Sample express app added babel to process React code.
+
 
 Using ReactJs code in Express.Js
 And get it using ReactDOMServer.renderToString(<componetname/>);
