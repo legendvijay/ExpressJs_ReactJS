@@ -22,7 +22,7 @@
     "express": "^4.14.0",
     "morgan": "^1.7.0",
     "object-assign": "^4.1.1",
-    "pug": "^2.0.0-beta6",
+    "pug": "^3.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "serve-favicon": "^2.3.0"
